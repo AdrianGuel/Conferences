@@ -55,8 +55,6 @@
 | Valla | María Inés Valla | Argentina | Control de accionamientos y electrónica de potencia | [Biografía o publicación](https://www1.ing.unlp.edu.ar/sitio/postgrado/archivos/cv/valla.pdf) |
 | Zavala-Río | Arturo Zavala-Río | México | Control no lineal y robótica | [Biografía o publicación](https://bipop.inrialpes.fr/people/brogliato/IEEE-TAC%2845%292000.pdf) |
 
-Las biografías de los artículos y libros citados incluyen el lugar de nacimiento o la nacionalidad. Para Valla se usó el CV institucional de la UNLP y para Molinas la reseña biográfica enlazada como fuentes de origen; su trabajo técnico puede consultarse, respectivamente, en [este trabajo sobre tecnologías de pilas de combustible y su control](https://www.iri.upc.edu/files/scidoc/1641-Modeling%2C-Diagnosis-and-Control-of-Fuel-Cell-based-Technologies-and-their-Integration-in-Smart-Grids-and-Automotive-Systems.pdf) y [esta publicación de control de sistemas eléctricos](https://www.iee.or.jp/trans/pdf/2000/0010B_1336.pdf).
-
 ## Panel derecho: 50 referentes internacionales
 
 | Apellido en la portada | Nombre completo o nombre de publicación | Referencia |
